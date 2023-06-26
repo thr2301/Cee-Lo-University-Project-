@@ -1,4 +1,4 @@
-# Athanasios Roudis,A.M. 5098
+
 #Cee-Lo
 #Phase 1
 from random import randint
